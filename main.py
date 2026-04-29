@@ -6,7 +6,7 @@
 
 # # ========= CONFIGURATION =========
 # # Replace with your actual Gemini API Key
-# GEMINI_API_KEY = "AIzaSyAVMZZRGXZcBpT16BxOm_Io7iuJDxt2fXM" 
+
 
 # client = genai.Client(api_key=GEMINI_API_KEY)
 # MODEL_ID = "gemini-2.0-flash" 
